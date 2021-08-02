@@ -1,0 +1,4 @@
+form .form-control:focus{
+    border-color: #ced4da;
+    box-shadow: none;
+  }
